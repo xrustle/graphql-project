@@ -1,1 +1,1 @@
-# graphql-project
+# OTUS GraphQL project
